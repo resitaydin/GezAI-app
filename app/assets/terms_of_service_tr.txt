@@ -1,0 +1,407 @@
+KULLANIM KOŞULLARI
+
+Yürürlük Tarihi: 06/02/2026
+Son Güncelleme: 06/02/2026
+
+GEZAI MOBİL UYGULAMASINI KULLANMADAN ÖNCE LÜTFEN BU KULLANIM KOŞULLARINI DİKKATLİCE OKUYUNUZ.
+
+================================================================================
+1. KOŞULLARIN KABULÜ
+================================================================================
+
+Bu Kullanım Koşulları ("Koşullar"), sizinle ("Kullanıcı", "siz" veya "sizin") GezAI ("Şirket", "biz", "bize" veya "bizim") arasında, GezAI mobil uygulamasına ("Uygulama") ve Uygulama aracılığıyla sunulan tüm özelliklere, içeriklere ve hizmetlere erişiminizi ve kullanımınızı düzenleyen yasal olarak bağlayıcı bir sözleşme oluşturur.
+
+Hesap oluşturarak, Uygulamayı indirerek, yükleyerek, erişerek veya kullanarak, bu Koşulları okuduğunuzu, anladığınızı ve bunlara bağlı kalmayı kabul ettiğinizi beyan etmiş olursunuz. Bu Koşulları kabul etmiyorsanız, Uygulamayı kullanmamalısınız.
+
+Uygulamayı kullanabilmek için en az 13 yaşında olmanız gerekmektedir. 18 yaşından küçükseniz, Uygulamayı kullanmak için ebeveyn veya yasal vasinizin onayını aldığınızı ve bu Koşulları sizin adınıza okuyup kabul ettiğini beyan edersiniz.
+
+================================================================================
+2. HİZMET TANIMI
+================================================================================
+
+GezAI, Türkiye'deki şehirler için (şu anda İstanbul Üsküdar ilçesine odaklanan) kişiselleştirilmiş yürüyüş, araç ve toplu taşıma rotaları oluşturan yapay zeka destekli bir seyahat planlama mobil uygulamasıdır. Uygulama aşağıdaki temel özellikleri sunar:
+
+- Kullanıcı tercihleri ve girdilerine dayalı yapay zeka ile oluşturulan rota önerileri
+- Navigasyon ve rota görselleştirmesi için Google Haritalar entegrasyonu
+- Puanlar, fotoğraflar ve detaylar dahil mekan bilgilerine erişim
+- Oluşturulan rotaları kaydetme, yer işareti ekleme ve yönetme imkanı
+- Rota özelleştirmesi için konum tabanlı hizmetler
+
+Uygulama, kullanıcı girdilerini işlemek ve rota önerileri oluşturmak için yapay zeka teknolojisini kullanmaktadır. Rota bilgileri Google Places API kullanılarak zenginleştirilir ve Google Maps SDK ile görüntülenir.
+
+================================================================================
+3. KULLANICI HESAPLARI VE KAYIT
+================================================================================
+
+3.1 Hesap Oluşturma
+Uygulamanın belirli özelliklerine erişmek için aşağıdaki bilgileri sağlayarak bir hesap oluşturmanız gerekmektedir:
+- Geçerli bir e-posta adresi
+- Adınız
+- Güvenli bir şifre
+
+Alternatif olarak, Google Giriş (OAuth 2.0) kullanarak kayıt olabilirsiniz; bu durumda Google hesap bilgileriniz, Google'ın gizlilik politikalarına uygun olarak Uygulama ile paylaşılacaktır.
+
+3.2 Hesap Güvenliği
+Aşağıdakilerden sorumlusunuz:
+- Hesap bilgilerinizin gizliliğini korumak
+- Hesabınız altında gerçekleşen tüm faaliyetler
+- Hesabınızın yetkisiz kullanımını derhal bize bildirmek
+
+Kayıt sırasında doğru, güncel ve eksiksiz bilgi sağlamayı ve bu bilgileri doğru, güncel ve eksiksiz tutmayı kabul edersiniz.
+
+3.3 E-posta Doğrulaması
+Uygulamanın belirli özelliklerine erişmeden önce e-posta adresinizi doğrulamanızı talep edebiliriz. E-postanızı doğrulamama durumunda Uygulama işlevselliğine sınırlı erişim söz konusu olabilir.
+
+3.4 Hesap Kısıtlamaları
+Aşağıdakileri yapamazsınız:
+- Kendiniz için birden fazla hesap oluşturmak
+- Hesabınızı başkalarıyla paylaşmak
+- İzin almadan başka birinin hesabını kullanmak
+- Yanlış veya yanıltıcı bilgilerle hesap oluşturmak
+- Daha önce Uygulamadan yasaklanmışsanız hesap oluşturmak
+
+================================================================================
+4. KULLANICI YÜKÜMLÜLÜKLERİ VE KABUL EDİLEBİLİR KULLANIM
+================================================================================
+
+4.1 İzin Verilen Kullanım
+Uygulamayı yalnızca yasal amaçlarla ve bu Koşullara uygun olarak kullanmayı kabul edersiniz. Uygulamayı kişisel, ticari olmayan seyahat planlama amaçları için kullanabilirsiniz.
+
+4.2 Yasaklanan Davranışlar
+Aşağıdakileri YAPMAMAYA kabul edersiniz:
+- Uygulamayı yürürlükteki yerel, ulusal veya uluslararası yasalara aykırı şekilde kullanmak
+- Önceden yazılı onayımız olmadan Uygulamayı herhangi bir ticari amaçla kullanmak
+- Uygulamanın herhangi bir bölümüne veya Uygulamaya bağlı diğer sistem ve ağlara yetkisiz erişim sağlamaya çalışmak
+- Uygulamayı veya Uygulamaya bağlı sunucu ve ağları bozmak veya engellemek
+- Uygulamaya erişmek için herhangi bir robot, örümcek, kazıyıcı veya otomatik araç kullanmak
+- Virüs, kötü amaçlı yazılım veya diğer zararlı kodlar iletmek
+- Diğer kullanıcıların kişisel verilerini onların rızası olmadan toplamak veya saklamak
+- Herhangi bir kişi veya kuruluşun kimliğine bürünmek veya bir kişi veya kuruluşla ilişkinizi yanlış beyan etmek
+- Uygulamayı diğer kullanıcıları taciz etmek, kötüye kullanmak, tehdit etmek veya sindirmek için kullanmak
+- Uygulamanın herhangi bir bölümünü tersine mühendislik, derleme çözme veya ayrıştırma işlemine tabi tutmak
+- Uygulamanın güvenlikle ilgili özelliklerini kaldırmak, atlatmak, devre dışı bırakmak, bozmak veya başka şekilde müdahale etmek
+- Yanlış, yanıltıcı veya kötü niyetli içerik veya bilgi göndermek
+
+4.3 İçerik Standartları
+Uygulama aracılığıyla gönderdiğiniz, yüklediğiniz veya paylaştığınız herhangi bir içerik (kaydedilen rota adları, notlar veya tercihler dahil):
+- Doğru olmalı ve yanıltıcı olmamalıdır
+- Üçüncü tarafların haklarını (fikri mülkiyet hakları dahil) ihlal etmemelidir
+- Saldırgan, hakaret içeren veya yasadışı içerik barındırmamalıdır
+- Başkalarının kişisel bilgilerini onların rızası olmadan içermemelidir
+
+================================================================================
+5. YAPAY ZEKA İLE OLUŞTURULAN İÇERİK UYARISI
+================================================================================
+
+5.1 Yapay Zeka ile Oluşturulan Rotaların Niteliği
+GezAI tarafından sağlanan rotalar ve öneriler, yapay zeka teknolojisi kullanılarak oluşturulmaktadır. Aşağıdakileri kabul ve beyan edersiniz:
+
+- Yapay zeka ile oluşturulan rotalar yalnızca önerilerdir ve %100 doğru olmayabilir
+- Rotalar, eksik veya güncel olmayabilen mevcut veriler ve kullanıcı girdilerine dayalı olarak oluşturulur
+- Yapay zeka zaman zaman beklenmedik, hatalı veya uygunsuz sonuçlar üretebilir
+- Rotalar, aşağıdakiler dahil ancak bunlarla sınırlı olmamak üzere anlık koşulları dikkate almayabilir:
+  * Trafik yoğunluğu
+  * Hava koşulları
+  * Yol kapatmaları veya inşaat çalışmaları
+  * Geçici işletme kapatmaları
+  * Özel etkinlikler veya kısıtlamalar
+  * Erişilebilirlik sorunları
+  * Güvenlik endişeleri
+
+5.2 Doğruluk Garantisi Yoktur
+Aşağıdakiler hakkında garanti, taahhüt veya beyan vermemekteyiz:
+- Yapay zeka ile oluşturulan rotaların doğruluğu, eksiksizliği veya güvenilirliği
+- Önerilen rotaların özel ihtiyaçlarınıza uygunluğu
+- Uygulama tarafından önerilen herhangi bir rotanın, konumun veya mekanın güvenliği
+- Rotalara dahil edilen mekanların müsaitlik durumu veya çalışma saatleri
+
+5.3 Kullanıcı Sorumluluğu
+YALNIZCA SİZ SORUMLUSUNUZ:
+- Herhangi bir rotayı takip etmeden önce uygunluğunu ve güvenliğini değerlendirmek
+- Ziyaret etmeden önce mekan bilgilerini (saatler, konum, erişilebilirlik) doğrulamak
+- Seyahat ederken kendi muhakemenizi ve sağduyunuzu kullanmak
+- Tüm trafik yasalarına ve düzenlemelerine uymak
+- Çevrenizin ve çevre koşullarının farkında olmak
+- Uygulama tarafından oluşturulan rotaları kullanırken kişisel güvenliğiniz ve başkalarının güvenliği
+
+Uygulama, seyahat planlamasına yardımcı olmayı amaçlamaktadır; kendi muhakemenizin ve karar verme sürecinizin yerine geçmez.
+
+================================================================================
+6. KONUM HİZMETLERİ VE VERİ TOPLAMA
+================================================================================
+
+6.1 Konum Verileri
+Uygulama, temel işlevselliği sağlamak için cihazınızın konum hizmetlerine erişim gerektirir, bu şunları içerir:
+- Mevcut konumunuza göre rota oluşturma
+- Haritalar üzerinde konumunuzu görüntüleme
+- Konum tabanlı öneriler sunma
+- Mesafe ve seyahat süresi hesaplama
+
+Uygulamayı kullanarak, konum verilerinizin Gizlilik Politikamızda açıklandığı şekilde toplanmasına ve kullanılmasına onay vermiş olursunuz.
+
+6.2 Topladığımız Veriler
+Aşağıdaki verileri topluyor ve işliyoruz:
+- Hesap bilgileri (e-posta adresi, ad)
+- Kimlik doğrulama verileri (Firebase Authentication)
+- Konum verileri (Uygulamayı kullanırken)
+- Kaydedilen rotalar, yer işaretleri ve tercihler
+- Kullanım verileri ve analizler
+- Cihaz bilgileri
+
+6.3 Üçüncü Taraf Veri İşleme
+Verileriniz, Uygulamaya entegre edilmiş üçüncü taraf hizmetleri tarafından işlenebilir:
+- Firebase (Kimlik doğrulama ve Firestore veritabanı)
+- Google Maps SDK (harita görüntüleme ve navigasyon)
+- Google Places API (mekan bilgileri)
+- Gemini AI (rota oluşturma)
+
+Bu üçüncü tarafların, verilerinizin kullanımını yöneten kendi gizlilik politikaları ve kullanım koşulları bulunmaktadır.
+
+6.4 Veri Saklama
+Hesabınız aktif olduğu sürece veya size hizmet sunmak için gerekli olduğu müddetçe verilerinizi saklarız. appgezai@gmail.com adresinden bize ulaşarak hesabınızın ve ilişkili verilerin silinmesini talep edebilirsiniz.
+
+6.5 Uluslararası Veri Aktarımları
+Verileriniz, ikamet ettiğiniz ülke dışındaki ülkelere aktarılabilir ve bu ülkelerde işlenebilir. Uygulamayı kullanarak, bu tür aktarımlara onay vermiş olursunuz.
+
+================================================================================
+7. ÜÇÜNCÜ TARAF HİZMETLERİ
+================================================================================
+
+7.1 Üçüncü Taraf Hizmetleriyle Entegrasyon
+Uygulama, aşağıdakiler dahil üçüncü taraf hizmetleriyle entegre olur ve bunlara dayanır:
+- Harita oluşturma ve navigasyon için Google Maps SDK
+- Mekan bilgileri, puanlar ve fotoğraflar için Google Places API
+- Kimlik doğrulama ve veri depolama için Firebase
+- Rota oluşturma için Gemini AI
+
+Bu üçüncü taraf hizmetlerini Uygulama aracılığıyla kullanmanız, ilgili kullanım koşullarına ve gizlilik politikalarına tabidir:
+- Google Haritalar Platformu Kullanım Koşulları
+- Google API Hizmetleri Kullanıcı Verileri Politikası
+- Firebase Kullanım Koşulları
+- Google AI/ML Kullanım Koşulları
+
+7.2 Üçüncü Taraf İçeriği
+Adlar, açıklamalar, puanlar, yorumlar, fotoğraflar ve çalışma saatleri dahil mekan bilgileri, Google Places API ve diğer üçüncü taraf kaynaklarından alınmaktadır. Bu bilgileri kontrol etmemekte veya doğrulamamaktayız ve doğruluğu, eksiksizliği veya güncelliği konusunda herhangi bir beyan veya garanti vermemekteyiz.
+
+7.3 Üçüncü Taraf Bağlantıları
+Uygulama, üçüncü taraf web sitelerine veya hizmetlerine bağlantılar içerebilir. Bu üçüncü taraf sitelerinin içeriğinden, doğruluğundan veya uygulamalarından sorumlu değiliz. Üçüncü taraf web sitelerini kullanımınız kendi sorumluluğunuzdadır ve ilgili koşullara tabidir.
+
+7.4 Üçüncü Taraf Hizmetlerindeki Değişiklikler
+Üçüncü taraf hizmet sağlayıcıları, hizmetlerini herhangi bir zamanda değiştirebilir, askıya alabilir veya durdurabilir. Üçüncü taraf hizmetlerindeki değişikliklerden kaynaklanan Uygulama işlevselliğine yönelik etkilerden sorumlu değiliz.
+
+================================================================================
+8. FİKRİ MÜLKİYET HAKLARI
+================================================================================
+
+8.1 Mülkiyet
+Uygulama, tüm içerik, özellikler, işlevsellik, yazılım, kod, tasarım, grafikler, kullanıcı arayüzü ve belgeler dahil olmak üzere [Şirket Adı]'na aittir ve uluslararası telif hakkı, ticari marka, patent, ticari sır ve diğer fikri mülkiyet yasaları ile korunmaktadır.
+
+8.2 Sınırlı Lisans
+Bu Koşullara tabi olarak, size aşağıdakileri yapmak için sınırlı, münhasır olmayan, devredilemez, alt lisanslanamaz, geri alınabilir bir lisans veriyoruz:
+- Uygulamayı kişisel mobil cihazınıza indirmek ve yüklemek
+- Uygulamaya kişisel, ticari olmayan kullanımınız için erişmek ve kullanmak
+
+Bu lisans aşağıdaki hakları içermez:
+- Uygulamadaki herhangi bir içerik veya yazılımı değiştirmek, kopyalamak, dağıtmak, iletmek, görüntülemek, yayınlamak, lisanslamak, türev eserler oluşturmak, devretmek veya satmak
+- Önceden yazılı onayımız olmadan Uygulamayı ticari amaçlarla kullanmak
+- Uygulamanın kaynak koduna veya temel teknolojisine erişmek veya kullanmak
+
+8.3 Kullanıcı İçeriği
+Uygulamaya gönderdiğiniz veya yüklediğiniz herhangi bir içeriğin (kaydedilen rota adları veya notlar gibi) mülkiyeti size aittir. İçerik göndererek, bu içeriği yalnızca Uygulamayı işletmek ve geliştirmek amacıyla kullanmak, çoğaltmak, değiştirmek ve görüntülemek için bize dünya çapında, münhasır olmayan, telifsiz bir lisans vermiş olursunuz.
+
+8.4 Geri Bildirim
+Uygulama hakkında geri bildirim, öneri veya fikir sağlarsanız, bu geri bildirimi size herhangi bir tazminat yükümlülüğü olmaksızın kullanma hakkımızı kabul etmiş olursunuz.
+
+8.5 Ticari Markalar
+"GezAI" ve ilişkili logolar [Şirket Adı]'nın ticari markalarıdır. Önceden yazılı iznimiz olmadan ticari markalarımızı kullanamazsınız.
+
+================================================================================
+9. SORUMLULUK SINIRLAMASI
+================================================================================
+
+9.1 Garanti Reddi
+UYGULAMA, AŞAĞIDAKİLER DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, AÇIK VEYA ZIMNİ HİÇBİR GARANTİ OLMAKSIZIN "OLDUĞU GİBİ" VE "MEVCUT OLDUĞU ŞEKLİYLE" SUNULMAKTADIR:
+- SATILABİLİRLİK GARANTİLERİ
+- BELİRLİ BİR AMACA UYGUNLUK
+- İHLAL ETMEME
+- İÇERİĞİN DOĞRULUĞU VEYA EKSİKSİZLİĞİ
+- KESİNTİSİZ VEYA HATASIZ ÇALIŞMA
+- VERİ GÜVENLİĞİ
+
+AŞAĞIDAKİLERİ GARANTİ ETMEMEKTEYİZ:
+- Uygulamanın gereksinimlerinizi veya beklentilerinizi karşılayacağı
+- Uygulamanın her zaman veya kesintisiz olarak kullanılabilir olacağı
+- Herhangi bir hata veya kusurun düzeltileceği
+- Uygulamanın virüs veya diğer zararlı bileşenlerden arınmış olduğu
+- Yapay zeka ile oluşturulan rotaların doğru, güvenli veya ihtiyaçlarınıza uygun olacağı
+- Mekan bilgilerinin güncel veya eksiksiz olacağı
+
+9.2 Sorumluluk Sınırlaması
+YÜRÜRLÜKTE OLAN YASALARIN İZİN VERDİĞİ AZAMİ ÖLÇÜDE, [ŞİRKET ADI], YETKİLİLERİ, YÖNETİCİLERİ, ÇALIŞANLARI, TEMSİLCİLERİ VEYA LİSANS VERENLERİ HİÇBİR DURUMDA AŞAĞIDAKİLERDEN SORUMLU OLMAYACAKTIR:
+
+- DOLAYLI, ARIZİ, ÖZEL, SONUÇSAL VEYA CEZAİ ZARARLAR
+- KÂR, GELİR, VERİ VEYA KULLANIM KAYBI
+- KİŞİSEL YARALANMA VEYA MÜLK HASARI
+- UYGULAMAYI KULLANIMINIZDAN VEYA KULLANAMAMANIZDAN KAYNAKLANAN ZARARLAR
+- YAPAY ZEKA İLE OLUŞTURULMUŞ ROTALARA VEYA MEKAN BİLGİLERİNE GÜVENMENIZDEN KAYNAKLANAN ZARARLAR
+- ÜÇÜNCÜ TARAF İÇERİĞİNDEN VEYA HİZMETLERİNDEN KAYNAKLANAN ZARARLAR
+- VERİLERİNİZE YETKİSİZ ERİŞİMDEN KAYNAKLANAN ZARARLAR
+
+GARANTİ, SÖZLEŞME, HAKSIZ FİİL (İHMAL DAHİL) VEYA HERHANGİ BİR YASAL TEORİYE DAYALI OLSUN, BU TÜR ZARARLARIN OLASILIĞI HAKKINDA BİLGİLENDİRİLMİŞ OLSAK BİLE.
+
+TOPLAM SORUMLULUĞUMUZ, HİÇBİR DURUMDA, TALEPTEKİ ÖNCEKİ ON İKİ (12) AY İÇİNDE BİZE ÖDEDİĞİNİZ TUTARI VEYA YÜZ DOLARI (100 $), HANGİSİ DAHA BÜYÜKSE, AŞMAYACAKTIR.
+
+9.3 Risk Kabulü
+Aşağıdakileri kabul ve beyan edersiniz:
+- Yapay zeka ile oluşturulan rotaları takip etmek doğası gereği riskler barındırır
+- Uygulamayı kullanmak ve önerilerini takip etmekle ilgili tüm riskleri üstlenirsiniz
+- Kendi güvenliğinizden ve başkalarının güvenliğinden siz sorumlusunuz
+- Uygulama tarafından oluşturulan rotaları kullanırken meydana gelen herhangi bir kaza, yaralanma veya hasar için sorumlu değiliz
+
+9.4 Yargı Yetkisi Sınırlamaları
+Bazı yargı bölgeleri, belirli garantilerin hariç tutulmasına veya arızi veya sonuçsal zararlar için sorumluluk sınırlamasına izin vermemektedir. Bu tür yargı bölgelerinde, sorumluluğumuz yasaların izin verdiği azami ölçüde sınırlı olacaktır.
+
+================================================================================
+10. GİZLİLİK POLİTİKASI
+================================================================================
+
+Gizliliğiniz bizim için önemlidir. Kişisel bilgilerinizin toplanması, kullanılması ve ifşa edilmesi, bu Koşullara referansla dahil edilen Gizlilik Politikamız tarafından yönetilmektedir.
+
+Uygulamayı kullanarak, bilgilerinizin Gizlilik Politikamızda açıklandığı şekilde toplanmasına ve kullanılmasına onay vermiş olursunuz. Gizlilik Politikasını dikkatlice okumanızı tavsiye ederiz.
+
+Önemli gizlilik hususları:
+- Uygulamanın işlevselliğini sağlamak için gerekli olan asgari veriyi topluyoruz
+- Verilerinizi korumak için sektör standardı güvenlik önlemleri kullanıyoruz
+- Kişisel bilgilerinizi üçüncü taraflara satmıyoruz
+- Kişisel verilerinize erişme, düzeltme ve silme haklarınız bulunmaktadır
+- KVKK ve GDPR dahil olmak üzere yürürlükteki veri koruma yasalarına uyuyoruz
+
+Gizlilik uygulamalarımız hakkındaki sorularınız için lütfen appgezai@gmail.com adresinden bize ulaşın.
+
+================================================================================
+11. KOŞULLARDA DEĞİŞİKLİKLER
+================================================================================
+
+11.1 Değiştirme Hakkı
+Bu Koşulları herhangi bir zamanda kendi takdirimize bağlı olarak değiştirme hakkımızı saklı tutarız. Değişiklik yaptığımızda:
+- Bu Koşulların başındaki "Son Güncelleme" tarihini güncelleyeceğiz
+- Sizi Uygulama aracılığıyla veya e-posta yoluyla bilgilendireceğiz
+- Değişikliklerin yürürlüğe girmesinden önce makul bir bildirim süresi sağlayacağız (genellikle 30 gün)
+
+11.2 Değiştirilmiş Koşulların Kabulü
+Değiştirilmiş Koşulların yürürlük tarihinden sonra Uygulamayı kullanmaya devam etmeniz, değişiklikleri kabul ettiğiniz anlamına gelir. Değiştirilmiş Koşulları kabul etmiyorsanız, Uygulamayı kullanmayı bırakmalı ve hesabınızı silebilirsiniz.
+
+11.3 Önemli Değişiklikler
+Haklarınızı veya yükümlülüklerinizi önemli ölçüde etkileyen önemli değişiklikler için, belirgin bir bildirim sağlayacağız ve Uygulamayı kullanmaya devam etmeden önce yeni Koşulları açıkça kabul etmenizi isteyebiliriz.
+
+================================================================================
+12. FESİH
+================================================================================
+
+12.1 Sizin Tarafınızdan Fesih
+Hesabınızı istediğiniz zaman aşağıdaki yollarla sonlandırabilirsiniz:
+- Uygulamadaki hesap silme özelliğini kullanarak (mevcutsa)
+- Hesap silme talebi için appgezai@gmail.com adresinden bize ulaşarak
+- Uygulamayı cihazınızdan kaldırarak
+
+Fesih üzerine, Uygulamayı kullanma hakkınız derhal sona erecektir.
+
+12.2 Bizim Tarafımızdan Fesih
+Aşağıdakiler dahil ancak bunlarla sınırlı olmamak üzere herhangi bir nedenle, önceden bildirimde bulunarak veya bulunmadan, hesabınızı askıya alma veya sonlandırma ve Uygulamaya erişiminizi engelleme hakkımızı saklı tutarız:
+- Bu Koşulların ihlali
+- Dolandırıcılık veya yasadışı faaliyet
+- Diğer kullanıcılara veya personelimize yönelik kötüye kullanma veya zararlı davranış
+- Uzun süreli eylemsizlik
+- Teknik veya güvenlik nedenleri
+- Uygulamanın sonlandırılması
+
+12.3 Feshin Sonuçları
+Hesabınızın sonlandırılması üzerine:
+- Kaydedilen rotalarınıza, tercihlerinize ve hesap verilerinize erişiminizi kaybedeceksiniz
+- Veri saklama politikalarımıza uygun olarak verilerinizi silebiliriz
+- Bu Koşulların niteliği gereği fesihten sonra da geçerli olması gereken hükümleri, fikri mülkiyet hakları, feragatler, sorumluluk sınırlamaları ve uyuşmazlık çözümü hükümleri dahil olmak üzere ancak bunlarla sınırlı olmamak üzere, geçerli olmaya devam edecektir
+
+12.4 İade Yapılmaz
+Bize herhangi bir ödeme yaptıysanız (gelecekteki premium özellikler için, varsa), hesabınızın sonlandırılması, yürürlükteki yasalar tarafından zorunlu tutulmadıkça herhangi bir iade hakkı vermez.
+
+================================================================================
+13. UYGULANACAK HUKUK VE UYUŞMAZLIK ÇÖZÜMÜ
+================================================================================
+
+13.1 Uygulanacak Hukuk
+Bu Koşullar, kanunlar ihtilafı hükümleri dikkate alınmaksızın, Türkiye Cumhuriyeti yasalarına göre yönetilecek ve yorumlanacaktır.
+
+13.2 Yargı Yetkisi ve Yetki Alanı
+Bu Koşullar veya Uygulama ile ilgili herhangi bir hukuki işlem veya davanın yalnızca İstanbul, Türkiye'de bulunan mahkemelerde açılacağını kabul eder ve bu mahkemelerin kişisel yargı yetkisine tabi olmayı onaylarsınız.
+
+13.3 Uyuşmazlık Çözümü
+Herhangi bir resmi hukuki işlem başlatmadan önce, uyuşmazlığı gayri resmi yollarla çözmek için öncelikle appgezai@gmail.com adresinden bize ulaşmayı kabul edersiniz. Uyuşmazlığı 30 gün içinde iyi niyetle çözmeye çalışacağız.
+
+13.4 Toplu Dava Feragati
+SİZ VE [ŞİRKET ADI], BİRBİRİNİZE KARŞI YALNIZCA BİREYSEL SIFATLA TALEPLERNİ İLERİ SÜREBİLECEĞİNİZİ VE HERHANGİ BİR TOPLU DAVA VEYA TEMSİLİ DAVADA DAVACI VEYA SINIF ÜYESİ OLARAK YER ALMAYACAĞINIZI KABUL EDERSİNİZ.
+
+13.5 Süre Sınırlaması
+Uygulamayı kullanımınızdan kaynaklanan herhangi bir talep veya dava, talep veya davanın ortaya çıkmasından itibaren bir (1) yıl içinde açılmalıdır; aksi takdirde zamanaşımına uğrayacaktır.
+
+================================================================================
+14. GENEL HÜKÜMLER
+================================================================================
+
+14.1 Sözleşmenin Bütünlüğü
+Bu Koşullar, Gizlilik Politikamızla birlikte, Uygulama ile ilgili siz ve [Şirket Adı] arasındaki sözleşmenin tamamını oluşturur ve önceki tüm anlaşma ve mutabakatların yerine geçer.
+
+14.2 Bölünebilirlik
+Bu Koşulların herhangi bir hükmünün yetkili bir mahkeme tarafından geçersiz veya uygulanamaz bulunması halinde, kalan hükümler tam olarak yürürlükte kalmaya devam edecektir.
+
+14.3 Feragat
+Bu Koşulların herhangi bir hak veya hükmünü uygulamamız, söz konusu hak veya hükümden feragat olarak değerlendirilmeyecektir.
+
+14.4 Devir
+Bu Koşulları veya buradaki haklarınızı önceden yazılı onayımız olmadan devredemez veya aktaramazsınız. Bu Koşulları herhangi bir kısıtlama olmaksızın devredebilir veya aktarabiliriz.
+
+14.5 Mücbir Sebep
+Doğal afetler, savaş, terör, ayaklanmalar, ambargolar, sivil veya askeri makamların eylemleri, yangın, sel, kazalar, pandemiler, grevler veya yakıt krizleri dahil ancak bunlarla sınırlı olmamak üzere, makul kontrolümüz dışındaki koşullardan kaynaklanan herhangi bir başarısızlık veya gecikmeden sorumlu olmayacağız.
+
+14.6 İhracat Kontrolü
+Uygulama, ihracat kontrol yasalarına ve düzenlemelerine tabi olabilir. Geçerli tüm ihracat ve yeniden ihracat kontrol yasalarına ve düzenlemelerine uymayı kabul edersiniz.
+
+14.7 Dil
+Bu Koşullar İngilizce ve Türkçe olarak hazırlanmıştır.
+
+14.8 Elektronik İletişim
+Uygulamayı kullanarak, bizden elektronik iletişim almayı kabul etmiş olursunuz. Bu elektronik iletişimler, hesabınız ve Uygulama ile ilgili bilgilendirme hakkında bildirimler içerebilir. Size elektronik olarak gönderdiğimiz herhangi bir bildirim, anlaşma, açıklama veya diğer iletişimlerin, bu tür iletişimlerin yazılı olması da dahil olmak üzere, yasal iletişim gereksinimlerini karşılayacağını kabul edersiniz.
+
+================================================================================
+15. İLETİŞİM BİLGİLERİ
+================================================================================
+
+Bu Koşullar veya Uygulama hakkında sorularınız, endişeleriniz veya şikayetleriniz varsa, lütfen bizimle iletişime geçin:
+
+GezAI
+E-posta: appgezai@gmail.com
+Uygulama: GezAI
+
+Gizlilikle ilgili sorularınız için lütfen Gizlilik Politikamıza başvurun veya yukarıdaki e-posta adresinden bize ulaşın.
+
+Teknik destek için lütfen uygulama içi destek özelliğini kullanın veya appgezai@gmail.com adresine e-posta gönderin.
+
+================================================================================
+ONAY
+================================================================================
+
+GEZAI UYGULAMASINI KULLANARAK, BU KULLANIM KOŞULLARINI OKUDUĞUNUZU, ANLADIĞINIZI VE BUNLARA BAĞLI KALMAYI KABUL ETTİĞİNİZİ BEYAN ETMİŞ OLURSUNUZ. BU KOŞULLARI KABUL ETMİYORSANIZ, UYGULAMAYI KULLANMAMANIZ GEREKMEKTEDİR.
+
+ÖZELLİKLE AŞAĞIDAKİLERİ KABUL VE BEYAN EDERSİNİZ:
+1. Yapay zeka ile oluşturulan rotalar yalnızca öneri niteliğindedir ve doğru veya güvenli olmayabilir
+2. Uygulamayı kullanırken kendi güvenliğinizden yalnızca siz sorumlusunuz
+3. Rotaları takip ederken meydana gelen kaza, yaralanma veya zararlardan sorumlu değiliz
+4. Mekan bilgileri güncel olmayabilir veya hatalı olabilir
+5. Uygulamanın düzgün çalışması için konum hizmetleri gereklidir
+6. Verileriniz üçüncü taraf hizmetleri tarafından işlenecektir
+7. Bu Koşulları herhangi bir zamanda bildirimde bulunarak değiştirebiliriz
+
+Son Güncelleme: 06/02/2026
+
+================================================================================
+KULLANIM KOŞULLARI SONU
+================================================================================

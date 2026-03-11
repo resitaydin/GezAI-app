@@ -1,0 +1,442 @@
+{
+  "@@locale": "en",
+
+  "@_COMMON": {},
+  "appName": "GezAI",
+  "cancel": "Cancel",
+  "continueButton": "Continue",
+  "gotIt": "Got It",
+  "save": "Save",
+  "delete": "Delete",
+  "retry": "Retry",
+
+  "@_APP": {},
+  "appTitle": "GezAI",
+  "appDescription": "AI-powered travel companion for Istanbul",
+
+  "@_AUTH_LOGIN": {},
+  "authWelcomeBack": "Welcome Back!",
+  "authPlanAdventure": "Plan your next Istanbul adventure.",
+  "authEmailAddress": "Email Address",
+  "authPassword": "Password",
+  "authForgotPassword": "Forgot Password?",
+  "authSignIn": "Sign In",
+  "authOrContinueWith": "Or continue with",
+  "authContinueWithGoogle": "Continue with Google",
+  "authNewToApp": "New to app? ",
+  "authCreateAccount": "Create Account",
+
+  "@_AUTH_SIGNUP": {},
+  "authCreateYourAccount": "Create Your Account",
+  "authStartPlanning": "Start planning your Istanbul adventure",
+  "authFullName": "Full Name",
+  "authConfirmPassword": "Confirm Password",
+  "authPasswordStrengthWeak": "Weak",
+  "authPasswordStrengthMedium": "Medium",
+  "authPasswordStrengthGood": "Good",
+  "authPasswordStrengthStrong": "Strong",
+  "authAgreeToTerms": "I agree to the Terms of Service ",
+  "authTermsOfService": "Terms of Service",
+  "authSignInWithGoogle": "Sign In with Google",
+  "authAlreadyHaveAccount": "Already have an account? ",
+  "authPleaseAgreeToTerms": "Please agree to the Terms of Service",
+
+  "@_AUTH_FORGOT_PASSWORD": {},
+  "authForgotPasswordTitle": "Forgot Password?",
+  "authResetInstructions": "Enter your email and we'll send you a password reset link if it's associated with your account.",
+  "authEnterYourEmail": "Enter your email",
+  "authSendResetLink": "Send Reset Link",
+  "authBackToSignIn": "Back to Sign In",
+
+  "@_AUTH_VERIFY_EMAIL": {},
+  "authVerifyEmail": "Verify Your Email",
+  "authVerificationSentTo": "We've sent a verification link to {email}",
+  "@authVerificationSentTo": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "authClickLinkToVerify": "Click the link in the email to verify your account",
+  "authResendEmail": "Resend Email",
+  "authResendInSeconds": "Resend in {seconds}s",
+  "@authResendInSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "authWrongEmailGoBack": "Wrong email? Go back",
+  "authVerificationEmailSent": "Verification email sent!",
+
+  "@_AUTH_PASSWORD_RESET": {},
+  "authCheckYourEmail": "Check Your Email",
+  "authResetLinkSent": "If an account exists with your email, we've sent a password reset link to your email address.",
+  "authDidntReceiveEmail": "Didn't receive the email? ",
+  "authResendLink": "Resend Link",
+
+  "@_VALIDATION": {},
+  "validationEmailRequired": "Please enter your email",
+  "validationEmailInvalid": "Please enter a valid email address",
+  "validationPasswordRequired": "Please enter your password",
+  "validationPasswordTooShort": "Password must be at least 6 characters",
+  "validationPasswordsDoNotMatch": "Passwords do not match",
+  "validationNameRequired": "Please enter your name",
+  "validationPasswordConfirmRequired": "Please confirm your password",
+
+  "@_ERROR_MESSAGES": {},
+  "errorUserNotFound": "No user found with this email address.",
+  "errorWrongPassword": "Incorrect password.",
+  "errorInvalidEmail": "Invalid email address.",
+  "errorUserDisabled": "This account has been disabled.",
+  "errorEmailAlreadyInUse": "This email address is already in use.",
+  "errorWeakPassword": "Password must be at least 6 characters.",
+  "errorOperationNotAllowed": "This sign-in method is not enabled.",
+  "errorTooManyRequests": "Too many attempts. Please try again later.",
+  "errorNetworkRequestFailed": "Network error. Please check your connection.",
+  "errorGoogleSignInCancelled": "Google sign-in cancelled",
+  "errorGoogleSignInFailed": "Google sign-in failed",
+  "errorUnknown": "An unknown error occurred",
+  "errorInvalidCredential": "The email or password you entered is incorrect.",
+  "errorExpiredActionCode": "This link has expired. Please request a new one.",
+  "errorInvalidActionCode": "This link is invalid. Please request a new one.",
+  "errorRequiresRecentLogin": "Please sign in again to complete this action.",
+  "errorAccountExistsWithDifferentCredential": "An account already exists with this email using a different sign-in method.",
+  "errorCredentialAlreadyInUse": "This credential is already associated with another account.",
+  "errorResetPasswordFailed": "Failed to reset password. Please try again.",
+
+  "@_WELCOME_SCREEN": {},
+  "welcomeTitle": "Istanbul Explorer",
+  "welcomeTagline": "Discover Istanbul Your Way",
+  "welcomeGetStarted": "Get Started",
+  "welcomeAlreadyHaveAccount": "I already have an account",
+  "welcomeTopPick": "Top Pick",
+  "welcomeHistoricalPeninsula": "Historical Peninsula",
+  "welcomeRouteHours": "{hours}-hour route",
+  "@welcomeRouteHours": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+
+  "@_NAVIGATION": {},
+  "navExplore": "Explore",
+  "navRoutes": "Routes",
+  "navAdvice": "Advice",
+  "navSaved": "Saved",
+  "navProfile": "Profile",
+
+  "@_PROFILE_SCREEN": {},
+  "profileTitle": "Profile",
+  "profileDefaultName": "Traveler",
+  "profileStatsRoutes": "Routes",
+  "profileStatsSaved": "Saved",
+  "profileStatsExplored": "Explored",
+  "profileMenuEditProfile": "Edit Profile",
+  "profileMenuNotifications": "Notifications",
+  "profileMenuLanguage": "Language",
+  "profileMenuHelp": "Help & Support",
+  "profileMenuAbout": "About GezAI",
+  "profileLanguageValue": "English",
+  "profileAboutVersion": "Version 1.0.0 (MVP)",
+  "profileAboutDescription": "AI-powered travel companion\nfor exploring Istanbul",
+  "profileLogoutTitle": "Sign Out?",
+  "profileLogoutMessage": "Are you sure you want to sign out of your account?",
+  "profileLogoutButton": "Sign Out",
+  "profileLogoutCancel": "Cancel",
+  "profileLogoutConfirm": "Sign Out",
+  "profileMenuLanguageTrailing": "English",
+  "profileAboutButton": "Got It",
+  "profileComingSoon": "{feature} coming soon!",
+  "@profileComingSoon": {
+    "placeholders": {
+      "feature": {"type": "String"}
+    }
+  },
+
+  "@_MY_ROUTES_SCREEN": {},
+  "myRoutesTitle": "My Routes",
+  "myRoutesSavedBadge": "Saved",
+  "myRoutesSubtitle": "Pick up where you left off",
+  "myRoutesEmptyTitle": "No saved routes yet",
+  "myRoutesEmptySubtitle": "Start exploring Istanbul and\nsave routes you want to try later!",
+  "myRoutesEmptyDescription": "Start exploring Istanbul and\nsave routes you want to try later!",
+  "myRoutesDiscoverButton": "Discover Routes",
+  "myRoutesErrorTitle": "Failed to load routes",
+  "myRoutesLoadingError": "Failed to load routes",
+  "myRoutesRetryButton": "Retry",
+  "myRoutesRetry": "Retry",
+  "myRoutesDeleteDialogTitle": "Delete Route?",
+  "myRoutesDeleteTitle": "Delete Route?",
+  "myRoutesDeleteDialogMessage": "Are you sure you want to delete \"{title}\"? This action cannot be undone.",
+  "@myRoutesDeleteDialogMessage": {
+    "placeholders": {
+      "title": {"type": "String"}
+    }
+  },
+  "myRoutesDeleteMessage": "Are you sure you want to delete \"{title}\"? This action cannot be undone.",
+  "@myRoutesDeleteMessage": {
+    "placeholders": {
+      "title": {"type": "String"}
+    }
+  },
+  "myRoutesCancelButton": "Cancel",
+  "myRoutesDeleteButton": "Delete",
+  "myRoutesDeleteSuccess": "Route deleted successfully",
+  "myRoutesDeleteFailed": "Failed to delete route: {error}",
+  "@myRoutesDeleteFailed": {
+    "placeholders": {
+      "error": {"type": "String"}
+    }
+  },
+  "myRoutesDeleteError": "Failed to delete route: {error}",
+  "@myRoutesDeleteError": {
+    "placeholders": {
+      "error": {"type": "String"}
+    }
+  },
+  "myRoutesLoadFailed": "Failed to load route: {error}",
+  "@myRoutesLoadFailed": {
+    "placeholders": {
+      "error": {"type": "String"}
+    }
+  },
+  "myRoutesLoadError": "Failed to load route: {error}",
+  "@myRoutesLoadError": {
+    "placeholders": {
+      "error": {"type": "String"}
+    }
+  },
+
+  "@_TRANSPORT_MODES": {},
+  "transportWalkingName": "Walking",
+  "transportWalkingDescription": "Discover historic streets on foot",
+  "transportWalkingBestFor": "Best for sightseeing",
+  "transportPublicTransitName": "Public Transit",
+  "transportPublicTransitDescription": "Navigate the city by metro, bus, and tram",
+  "transportPublicTransitBestFor": "Best for long distances",
+  "transportDrivingName": "Driving",
+  "transportDrivingDescription": "Explore Istanbul by car",
+  "transportDrivingBestFor": "Best for flexibility",
+
+  "@_CATEGORIES": {},
+  "categoryMosques": "Mosques",
+  "categoryMuseums": "Museums",
+  "categoryParks": "Parks",
+  "categoryRestaurants": "Restaurants",
+  "categoryCafes": "Cafes",
+  "categoryAttractions": "Attractions",
+  "categoryHistorical": "Historical Sites",
+  "categoryShopping": "Shopping",
+  "categoryHotels": "Hotels",
+  "categoryChurches": "Churches",
+
+  "@_MOODS": {},
+  "moodRomantic": "Romantic",
+  "moodHistorical": "Historical",
+  "moodRelaxing": "Relaxing",
+  "moodFamily": "Family",
+  "moodScenic": "Scenic",
+  "moodFoodie": "Foodie",
+  "moodPhotography": "Photography",
+  "moodNature": "Nature",
+  "moodAdventure": "Adventure",
+  "moodCultural": "Cultural",
+  "moodSpiritual": "Spiritual",
+  "moodLocal": "Local",
+  "moodHiddenGem": "Hidden Gem",
+  "moodSunset": "Sunset",
+  "moodMorning": "Morning",
+  "moodNightlife": "Nightlife",
+
+  "@_TIME_PERIODS": {},
+  "timePeriodMorning": "Morning",
+  "timePeriodAfternoon": "Afternoon",
+  "timePeriodEvening": "Evening",
+  "timePeriodAnytime": "Anytime",
+  "timePeriodMorningDesc": "6 AM - 12 PM",
+  "timePeriodAfternoonDesc": "12 PM - 6 PM",
+  "timePeriodEveningDesc": "6 PM - 12 AM",
+  "timePeriodAnytimeDesc": "Flexible timing",
+
+  "@_SUBTITLE_DEFAULTS": {},
+  "defaultCategoriesHint": "Museums, Cafes",
+  "defaultMoodsHint": "Relaxing, Scenic",
+  "defaultDurationHint": "Morning, Anytime",
+  "defaultTransportHint": "Walking",
+  "selectedCount": "{count} selected",
+  "@selectedCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+
+  "@_ROUTE_LOADING": {},
+  "routeLoadingTitle": "Building Your Trip",
+  "routeLoadingStep": "Step {step}",
+  "@routeLoadingStep": {
+    "placeholders": {
+      "step": {"type": "int"}
+    }
+  },
+  "routeLoadingStatus": "LOADING...",
+  "routeLoadingPlacesConsidering": "Places we're considering",
+  "routeLoadingStep1Message": "Discovering hidden gems... 💎",
+  "routeLoadingStep2Message": "Optimizing your route... 🗺️",
+  "routeLoadingStep3Message": "Adding local insights... ✨",
+  "routeLoadingStep1Label": "Finding amazing places based on your preferences",
+  "routeLoadingStep2Label": "Optimizing your route for the best experience",
+  "routeLoadingStep3Label": "Adding local insights and recommendations",
+
+  "@_SEARCH": {},
+  "searchBarPlaceholder": "Where do you want to explore?",
+
+  "@_ROUTE_RESULTS": {},
+  "routeSaved": "Route saved",
+  "routeUnsaved": "Route removed from saved",
+  "cannotSaveRoute": "Cannot save route",
+  "failedToSaveRoute": "Failed to save route",
+  "noRouteYet": "No Route Yet",
+  "createFirstRoute": "Start exploring Istanbul and create your first personalized route!",
+  "createYourRoute": "Create Your Route",
+  "saved": "Saved",
+  "startRoute": "Start Route",
+  "stopsCount": "{count} Stops",
+  "@stopsCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+
+  "@_FILTERS": {},
+  "filterAll": "All",
+  "filterWalking": "Walking",
+  "filterTransit": "Transit",
+  "filterDriving": "Driving",
+
+  "@_TRANSPORT_SHORT": {},
+  "transportDrive": "Drive",
+  "transportTransit": "Transit",
+  "transportWalk": "Walk",
+
+  "@_ROUTE_CARD": {},
+  "placesCount": "{count} Places",
+  "@placesCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "viewRoute": "View Route",
+  "preparingRoute": "Preparing route...",
+  "exploreRoute": "Explore Route",
+
+  "@_CATEGORY_SINGULAR": {},
+  "categorySeaside": "Seaside",
+  "categoryMosque": "Mosque",
+  "categoryScenic": "Scenic",
+  "categoryLocal": "Local",
+  "categoryCafe": "Cafe",
+  "categoryRestaurant": "Restaurant",
+  "categoryPark": "Park",
+  "categoryMuseum": "Museum",
+  "categoryAttraction": "Attraction",
+
+  "@_EXPLORE_TAB": {},
+  "exploreCategories": "Categories",
+  "exploreMood": "Mood",
+  "exploreDuration": "Duration",
+  "exploreTransport": "Transport",
+  "createMyRoute": "Create My Route",
+
+  "@_CATEGORY_SELECTION_SHEET": {},
+  "selectCategories": "Select Categories",
+  "choosePlacesToExplore": "Choose places you want to explore",
+  "clear": "Clear",
+  "categorySelectedCount": "{count, plural, =1{category selected} other{categories selected}}",
+  "@categorySelectedCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "applySelection": "Apply Selection",
+
+  "@_MOOD_SELECTION_SHEET": {},
+  "moodTitle": "What's your mood today?",
+  "moodSubtitle": "We'll curate Istanbul just for you.",
+  "moodSelectedCount": "{count, plural, =1{mood selected} other{moods selected}}",
+  "@moodSelectedCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "applyMood": "Apply Mood",
+  "skipForNow": "Skip for now",
+
+  "@_DURATION_SELECTION_SHEET": {},
+  "durationTitle": "Duration",
+  "hourSingular": "hour",
+  "hourPlural": "hours",
+  "hourAbbr": "h",
+  "applyDuration": "Apply",
+
+  "@_TRANSPORT_SELECTION_SHEET": {},
+  "transportTitle": "How will you\nget around?",
+  "transportSubtitle": "Choose your preferred way to explore Istanbul.",
+  "applyTransport": "Apply Transport",
+
+  "@_ADVICE_ROUTES_SCREEN": {},
+  "curatedRoutes": "Curated Routes",
+  "curatedRoutesSubtitle": "Handpicked experiences curated by locals",
+  "somethingWentWrong": "Oops! Something went wrong",
+  "tryAgain": "Try Again",
+  "noRoutesFound": "No routes found",
+  "noRoutesFoundSubtitle": "Try selecting a different filter\nto discover more routes",
+  "showAllRoutes": "Show All Routes",
+
+  "@_ROUTE_READY_SCREEN": {},
+  "routeReady": "Your Route is Ready!",
+  "routeReadySubtitle": "We've crafted the perfect itinerary based on your preferences",
+  "placesLabel": "Places",
+  "durationLabel": "Duration",
+  "kmLabel": "km",
+  "viewMyRoute": "View My Route",
+
+  "@_AI_ROUTE_PLANNER": {},
+  "tripPlanner": "TRIP PLANNER",
+  "suggestedItineraries": "SUGGESTED ITINERARIES",
+  "aiCraftingRoute": "AI is crafting your route...",
+  "findingBestSpots": "Finding the best spots...",
+  "personalizingJourney": "Personalizing your journey...",
+  "enrichingDetails": "Enriching place details...",
+  "fetchingPhotos": "Fetching photos & ratings...",
+  "finalizingItinerary": "Finalizing your itinerary...",
+  "analyzingPreferences": "Analyzing your preferences",
+  "selectingLocations": "Selecting perfect locations",
+  "creatingSequence": "Creating optimal sequence",
+  "gettingRealtimeData": "Getting real-time data",
+  "loadingPlaceInfo": "Loading place information",
+  "almostReady": "Almost ready!",
+
+  "@_PLACE_PREVIEW_SHEET": {},
+  "openNow": "OPEN NOW",
+  "aboutSection": "About",
+  "noDescriptionAvailable": "No description available.",
+  "unableToLoadPlaceDetails": "Unable to load place details",
+
+  "@_TERMS_OF_SERVICE_SHEET": {},
+  "termsOfServiceTitle": "Terms of Service",
+  "termsReadCarefully": "Please read carefully",
+  "termsLoadFailed": "Failed to load Terms of Service. Please try again later.",
+
+  "@_SNACKBAR_MESSAGES": {},
+  "snackbarPasswordRequirements": "Please meet all password requirements",
+  "snackbarPasswordResetSuccess": "Password reset successfully!",
+  "snackbarAtLeastTwoStops": "At least 2 stops are required to start navigation",
+  "snackbarCouldNotOpenMaps": "Could not open Google Maps",
+  "snackbarFailedGenerateLink": "Failed to generate route link",
+  "snackbarRouteTakingLonger": "Route generation is taking longer than expected...",
+  "snackbarErrorOccurred": "An error occurred",
+  "snackbarFailedLoadRouteDetails": "Failed to load route details"
+}

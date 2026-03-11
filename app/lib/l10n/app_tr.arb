@@ -1,0 +1,442 @@
+{
+  "@@locale": "tr",
+
+  "@_COMMON": {},
+  "appName": "GezAI",
+  "cancel": "İptal",
+  "continueButton": "Devam Et",
+  "gotIt": "Anladım",
+  "save": "Kaydet",
+  "delete": "Sil",
+  "retry": "Tekrar Dene",
+
+  "@_APP": {},
+  "appTitle": "GezAI",
+  "appDescription": "İstanbul için yapay zeka destekli seyahat arkadaşı",
+
+  "@_AUTH_LOGIN": {},
+  "authWelcomeBack": "Hoş Geldin!",
+  "authPlanAdventure": "Bir sonraki İstanbul maceranı planla.",
+  "authEmailAddress": "E-posta Adresi",
+  "authPassword": "Şifre",
+  "authForgotPassword": "Şifremi Unuttum?",
+  "authSignIn": "Giriş Yap",
+  "authOrContinueWith": "Veya şununla devam et",
+  "authContinueWithGoogle": "Google ile Devam Et",
+  "authNewToApp": "Uygulamada yeni misin? ",
+  "authCreateAccount": "Hesap Oluştur",
+
+  "@_AUTH_SIGNUP": {},
+  "authCreateYourAccount": "Hesabını Oluştur",
+  "authStartPlanning": "İstanbul maceranı planlamaya başla",
+  "authFullName": "Ad Soyad",
+  "authConfirmPassword": "Şifreyi Onayla",
+  "authPasswordStrengthWeak": "Zayıf",
+  "authPasswordStrengthMedium": "Orta",
+  "authPasswordStrengthGood": "İyi",
+  "authPasswordStrengthStrong": "Güçlü",
+  "authAgreeToTerms": "Hizmet Şartları'nı kabul ediyorum ",
+  "authTermsOfService": "Hizmet Şartları",
+  "authSignInWithGoogle": "Google ile Giriş Yap",
+  "authAlreadyHaveAccount": "Zaten hesabın var mı? ",
+  "authPleaseAgreeToTerms": "Lütfen Hizmet Şartları'nı kabul edin",
+
+  "@_AUTH_FORGOT_PASSWORD": {},
+  "authForgotPasswordTitle": "Şifreni Unuttun mu?",
+  "authResetInstructions": "E-postanı gir, hesabınla ilişkiliyse sana şifre sıfırlama bağlantısı gönderelim.",
+  "authEnterYourEmail": "E-postanı gir",
+  "authSendResetLink": "Sıfırlama Bağlantısı Gönder",
+  "authBackToSignIn": "Girişe Dön",
+
+  "@_AUTH_VERIFY_EMAIL": {},
+  "authVerifyEmail": "E-postanı Doğrula",
+  "authVerificationSentTo": "{email} adresine doğrulama bağlantısı gönderdik",
+  "@authVerificationSentTo": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "authClickLinkToVerify": "Hesabını doğrulamak için e-postadaki bağlantıya tıkla",
+  "authResendEmail": "E-postayı Tekrar Gönder",
+  "authResendInSeconds": "Tekrar gönder {seconds}s",
+  "@authResendInSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "authWrongEmailGoBack": "Yanlış e-posta mı? Geri dön",
+  "authVerificationEmailSent": "Doğrulama e-postası gönderildi!",
+
+  "@_AUTH_PASSWORD_RESET": {},
+  "authCheckYourEmail": "E-postanı Kontrol Et",
+  "authResetLinkSent": "E-postanla ilişkili bir hesap varsa, e-posta adresine şifre sıfırlama bağlantısı gönderdik.",
+  "authDidntReceiveEmail": "E-postayı almadın mı? ",
+  "authResendLink": "Bağlantıyı Tekrar Gönder",
+
+  "@_VALIDATION": {},
+  "validationEmailRequired": "Lütfen e-postanızı girin",
+  "validationEmailInvalid": "Lütfen geçerli bir e-posta adresi girin",
+  "validationPasswordRequired": "Lütfen şifrenizi girin",
+  "validationPasswordTooShort": "Şifre en az 6 karakter olmalıdır",
+  "validationPasswordsDoNotMatch": "Şifreler eşleşmiyor",
+  "validationNameRequired": "Lütfen adınızı girin",
+  "validationPasswordConfirmRequired": "Lütfen şifrenizi onaylayın",
+
+  "@_ERROR_MESSAGES": {},
+  "errorUserNotFound": "Bu e-posta adresiyle kayıtlı kullanıcı bulunamadı.",
+  "errorWrongPassword": "Hatalı şifre.",
+  "errorInvalidEmail": "Geçersiz e-posta adresi.",
+  "errorUserDisabled": "Bu hesap devre dışı bırakılmış.",
+  "errorEmailAlreadyInUse": "Bu e-posta adresi zaten kullanılıyor.",
+  "errorWeakPassword": "Şifre en az 6 karakter olmalıdır.",
+  "errorOperationNotAllowed": "Bu giriş yöntemi etkin değil.",
+  "errorTooManyRequests": "Çok fazla deneme yapıldı. Lütfen daha sonra tekrar deneyin.",
+  "errorNetworkRequestFailed": "Ağ hatası. Lütfen bağlantınızı kontrol edin.",
+  "errorGoogleSignInCancelled": "Google girişi iptal edildi",
+  "errorGoogleSignInFailed": "Google girişi başarısız oldu",
+  "errorUnknown": "Bilinmeyen bir hata oluştu",
+  "errorInvalidCredential": "Girdiğiniz e-posta veya şifre hatalı.",
+  "errorExpiredActionCode": "Bu bağlantının süresi dolmuş. Lütfen yeni bir tane talep edin.",
+  "errorInvalidActionCode": "Bu bağlantı geçersiz. Lütfen yeni bir tane talep edin.",
+  "errorRequiresRecentLogin": "Bu işlemi tamamlamak için lütfen tekrar giriş yapın.",
+  "errorAccountExistsWithDifferentCredential": "Bu e-posta adresiyle farklı bir giriş yöntemi kullanılarak oluşturulmuş bir hesap zaten var.",
+  "errorCredentialAlreadyInUse": "Bu kimlik bilgisi zaten başka bir hesapla ilişkilendirilmiş.",
+  "errorResetPasswordFailed": "Şifre sıfırlanamadı. Lütfen tekrar deneyin.",
+
+  "@_WELCOME_SCREEN": {},
+  "welcomeTitle": "İstanbul Rehberi",
+  "welcomeTagline": "İstanbul'u Kendi Tarzınla Keşfet",
+  "welcomeGetStarted": "Başla",
+  "welcomeAlreadyHaveAccount": "Zaten hesabım var",
+  "welcomeTopPick": "En İyi Seçim",
+  "welcomeHistoricalPeninsula": "Tarihi Yarımada",
+  "welcomeRouteHours": "{hours} saatlik rota",
+  "@welcomeRouteHours": {
+    "placeholders": {
+      "hours": {"type": "int"}
+    }
+  },
+
+  "@_NAVIGATION": {},
+  "navExplore": "Keşfet",
+  "navRoutes": "Rotalar",
+  "navAdvice": "Öneri",
+  "navSaved": "Kayıtlı",
+  "navProfile": "Profil",
+
+  "@_PROFILE_SCREEN": {},
+  "profileTitle": "Profil",
+  "profileDefaultName": "Gezgin",
+  "profileStatsRoutes": "Rotalar",
+  "profileStatsSaved": "Kaydedilenler",
+  "profileStatsExplored": "Keşfedilenler",
+  "profileMenuEditProfile": "Profili Düzenle",
+  "profileMenuNotifications": "Bildirimler",
+  "profileMenuLanguage": "Dil",
+  "profileMenuHelp": "Yardım ve Destek",
+  "profileMenuAbout": "GezAI Hakkında",
+  "profileLanguageValue": "Türkçe",
+  "profileAboutVersion": "Versiyon 1.0.0 (MVP)",
+  "profileAboutDescription": "İstanbul'u keşfetmek için\nyapay zeka destekli seyahat arkadaşı",
+  "profileLogoutTitle": "Çıkış Yap?",
+  "profileLogoutMessage": "Hesabınızdan çıkış yapmak istediğinizden emin misiniz?",
+  "profileLogoutButton": "Çıkış Yap",
+  "profileLogoutCancel": "İptal",
+  "profileLogoutConfirm": "Çıkış Yap",
+  "profileMenuLanguageTrailing": "Türkçe",
+  "profileAboutButton": "Anladım",
+  "profileComingSoon": "{feature} yakında geliyor!",
+  "@profileComingSoon": {
+    "placeholders": {
+      "feature": {"type": "String"}
+    }
+  },
+
+  "@_MY_ROUTES_SCREEN": {},
+  "myRoutesTitle": "Rotalarım",
+  "myRoutesSavedBadge": "Kaydedilenler",
+  "myRoutesSubtitle": "Kaldığın yerden devam et",
+  "myRoutesEmptyTitle": "Henüz kaydedilmiş rota yok",
+  "myRoutesEmptySubtitle": "İstanbul'u keşfetmeye başla ve\ndaha sonra denemek istediğin rotaları kaydet!",
+  "myRoutesEmptyDescription": "İstanbul'u keşfetmeye başla ve\ndaha sonra denemek istediğin rotaları kaydet!",
+  "myRoutesDiscoverButton": "Rotaları Keşfet",
+  "myRoutesErrorTitle": "Rotalar yüklenemedi",
+  "myRoutesLoadingError": "Rotalar yüklenemedi",
+  "myRoutesRetryButton": "Tekrar Dene",
+  "myRoutesRetry": "Tekrar Dene",
+  "myRoutesDeleteDialogTitle": "Rotayı Sil?",
+  "myRoutesDeleteTitle": "Rotayı Sil?",
+  "myRoutesDeleteDialogMessage": "\"{title}\" rotasını silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+  "@myRoutesDeleteDialogMessage": {
+    "placeholders": {
+      "title": {"type": "String"}
+    }
+  },
+  "myRoutesDeleteMessage": "\"{title}\" rotasını silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+  "@myRoutesDeleteMessage": {
+    "placeholders": {
+      "title": {"type": "String"}
+    }
+  },
+  "myRoutesCancelButton": "İptal",
+  "myRoutesDeleteButton": "Sil",
+  "myRoutesDeleteSuccess": "Rota başarıyla silindi",
+  "myRoutesDeleteFailed": "Rota silinemedi: {error}",
+  "@myRoutesDeleteFailed": {
+    "placeholders": {
+      "error": {"type": "String"}
+    }
+  },
+  "myRoutesDeleteError": "Rota silinemedi: {error}",
+  "@myRoutesDeleteError": {
+    "placeholders": {
+      "error": {"type": "String"}
+    }
+  },
+  "myRoutesLoadFailed": "Rota yüklenemedi: {error}",
+  "@myRoutesLoadFailed": {
+    "placeholders": {
+      "error": {"type": "String"}
+    }
+  },
+  "myRoutesLoadError": "Rota yüklenemedi: {error}",
+  "@myRoutesLoadError": {
+    "placeholders": {
+      "error": {"type": "String"}
+    }
+  },
+
+  "@_TRANSPORT_MODES": {},
+  "transportWalkingName": "Yürüyüş",
+  "transportWalkingDescription": "Tarihi sokakları yürüyerek keşfet",
+  "transportWalkingBestFor": "Gezinti için en uygun",
+  "transportPublicTransitName": "Toplu Taşıma",
+  "transportPublicTransitDescription": "Metro, otobüs ve tramvayla şehri dolaş",
+  "transportPublicTransitBestFor": "Uzun mesafeler için en uygun",
+  "transportDrivingName": "Araba",
+  "transportDrivingDescription": "İstanbul'u arabayla gezin",
+  "transportDrivingBestFor": "Esneklik için en uygun",
+
+  "@_CATEGORIES": {},
+  "categoryMosques": "Camiler",
+  "categoryMuseums": "Müzeler",
+  "categoryParks": "Parklar",
+  "categoryRestaurants": "Restoranlar",
+  "categoryCafes": "Kafeler",
+  "categoryAttractions": "Turistik Yerler",
+  "categoryHistorical": "Tarihi Yerler",
+  "categoryShopping": "Alışveriş",
+  "categoryHotels": "Oteller",
+  "categoryChurches": "Kiliseler",
+
+  "@_MOODS": {},
+  "moodRomantic": "Romantik",
+  "moodHistorical": "Tarihi",
+  "moodRelaxing": "Rahatlatıcı",
+  "moodFamily": "Aile",
+  "moodScenic": "Manzaralı",
+  "moodFoodie": "Gurme",
+  "moodPhotography": "Fotoğraf",
+  "moodNature": "Doğa",
+  "moodAdventure": "Macera",
+  "moodCultural": "Kültürel",
+  "moodSpiritual": "Manevi",
+  "moodLocal": "Yerel",
+  "moodHiddenGem": "Gizli Hazine",
+  "moodSunset": "Gün Batımı",
+  "moodMorning": "Sabah",
+  "moodNightlife": "Gece Hayatı",
+
+  "@_TIME_PERIODS": {},
+  "timePeriodMorning": "Sabah",
+  "timePeriodAfternoon": "Öğleden Sonra",
+  "timePeriodEvening": "Akşam",
+  "timePeriodAnytime": "Her Zaman",
+  "timePeriodMorningDesc": "06:00 - 12:00",
+  "timePeriodAfternoonDesc": "12:00 - 18:00",
+  "timePeriodEveningDesc": "18:00 - 00:00",
+  "timePeriodAnytimeDesc": "Esnek zamanlama",
+
+  "@_SUBTITLE_DEFAULTS": {},
+  "defaultCategoriesHint": "Müzeler, Kafeler",
+  "defaultMoodsHint": "Tarihi, Aile Dostu",
+  "defaultDurationHint": "Sabah, Her Zaman",
+  "defaultTransportHint": "Yürüyüş",
+  "selectedCount": "{count} seçildi",
+  "@selectedCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+
+  "@_ROUTE_LOADING": {},
+  "routeLoadingTitle": "Geziniz Hazırlanıyor",
+  "routeLoadingStep": "Adım {step}",
+  "@routeLoadingStep": {
+    "placeholders": {
+      "step": {"type": "int"}
+    }
+  },
+  "routeLoadingStatus": "YÜKLENIYOR...",
+  "routeLoadingPlacesConsidering": "İncelediğimiz yerler",
+  "routeLoadingStep1Message": "Gizli cevherleri keşfediyor... 💎",
+  "routeLoadingStep2Message": "Rotanızı optimize ediyor... 🗺️",
+  "routeLoadingStep3Message": "Yerel öneriler ekleniyor... ✨",
+  "routeLoadingStep1Label": "Tercihlerinize göre harika yerler bulunuyor",
+  "routeLoadingStep2Label": "En iyi deneyim için rotanız optimize ediliyor",
+  "routeLoadingStep3Label": "Yerel bilgiler ve öneriler ekleniyor",
+
+  "@_SEARCH": {},
+  "searchBarPlaceholder": "Nereyi keşfetmek istersin?",
+
+  "@_ROUTE_RESULTS": {},
+  "routeSaved": "Rota kaydedildi",
+  "routeUnsaved": "Rota kaydedilenlerden kaldırıldı",
+  "cannotSaveRoute": "Rota kaydedilemiyor",
+  "failedToSaveRoute": "Rota kaydedilemedi",
+  "noRouteYet": "Henüz Rota Yok",
+  "createFirstRoute": "İstanbul'u keşfetmeye başla ve ilk kişisel rotanı oluştur!",
+  "createYourRoute": "Rotanı Oluştur",
+  "saved": "Kaydedildi",
+  "startRoute": "Rotayı Başlat",
+  "stopsCount": "{count} Durak",
+  "@stopsCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+
+  "@_FILTERS": {},
+  "filterAll": "Tümü",
+  "filterWalking": "Yürüyüş",
+  "filterTransit": "Toplu Taşıma",
+  "filterDriving": "Araba",
+
+  "@_TRANSPORT_SHORT": {},
+  "transportDrive": "Araba",
+  "transportTransit": "Toplu Taşıma",
+  "transportWalk": "Yürüyüş",
+
+  "@_ROUTE_CARD": {},
+  "placesCount": "{count} Yer",
+  "@placesCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "viewRoute": "Rotayı Gör",
+  "preparingRoute": "Rota hazırlanıyor...",
+  "exploreRoute": "Rotayı Keşfet",
+
+  "@_CATEGORY_SINGULAR": {},
+  "categorySeaside": "Sahil",
+  "categoryMosque": "Cami",
+  "categoryScenic": "Manzaralı",
+  "categoryLocal": "Yerel",
+  "categoryCafe": "Kafe",
+  "categoryRestaurant": "Restoran",
+  "categoryPark": "Park",
+  "categoryMuseum": "Müze",
+  "categoryAttraction": "Turistik Yer",
+
+  "@_EXPLORE_TAB": {},
+  "exploreCategories": "Kategoriler",
+  "exploreMood": "Ruh Hali",
+  "exploreDuration": "Süre",
+  "exploreTransport": "Ulaşım",
+  "createMyRoute": "Rotamı Oluştur",
+
+  "@_CATEGORY_SELECTION_SHEET": {},
+  "selectCategories": "Kategori Seç",
+  "choosePlacesToExplore": "Keşfetmek istediğin yerleri seç",
+  "clear": "Temizle",
+  "categorySelectedCount": "{count, plural, =1{kategori seçildi} other{kategori seçildi}}",
+  "@categorySelectedCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "applySelection": "Seçimi Uygula",
+
+  "@_MOOD_SELECTION_SHEET": {},
+  "moodTitle": "Bugün ruh halin nasıl?",
+  "moodSubtitle": "İstanbul'u sana özel hazırlayacağız.",
+  "moodSelectedCount": "{count, plural, =1{ruh hali seçildi} other{ruh hali seçildi}}",
+  "@moodSelectedCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "applyMood": "Ruh Halini Uygula",
+  "skipForNow": "Şimdilik geç",
+
+  "@_DURATION_SELECTION_SHEET": {},
+  "durationTitle": "Süre",
+  "hourSingular": "saat",
+  "hourPlural": "saat",
+  "hourAbbr": "sa",
+  "applyDuration": "Uygula",
+
+  "@_TRANSPORT_SELECTION_SHEET": {},
+  "transportTitle": "Nasıl\ngezmek istersin?",
+  "transportSubtitle": "İstanbul'u keşfetmek için tercih ettiğin ulaşım yolunu seç.",
+  "applyTransport": "Ulaşımı Uygula",
+
+  "@_ADVICE_ROUTES_SCREEN": {},
+  "curatedRoutes": "Önerilen Rotalar",
+  "curatedRoutesSubtitle": "Yerliler tarafından özenle seçilmiş deneyimler",
+  "somethingWentWrong": "Hay aksi! Bir şeyler ters gitti",
+  "tryAgain": "Tekrar Dene",
+  "noRoutesFound": "Rota bulunamadı",
+  "noRoutesFoundSubtitle": "Daha fazla rota keşfetmek için\nfarklı bir filtre seçmeyi dene",
+  "showAllRoutes": "Tüm Rotaları Göster",
+
+  "@_ROUTE_READY_SCREEN": {},
+  "routeReady": "Rotan Hazır!",
+  "routeReadySubtitle": "Tercihlerine göre mükemmel bir gezi planı hazırladık",
+  "placesLabel": "Yer",
+  "durationLabel": "Süre",
+  "kmLabel": "km",
+  "viewMyRoute": "Rotamı Gör",
+
+  "@_AI_ROUTE_PLANNER": {},
+  "tripPlanner": "GEZİ PLANLAYICI",
+  "suggestedItineraries": "ÖNERİLEN GÜZERGAHLAR",
+  "aiCraftingRoute": "Yapay zeka rotanı oluşturuyor...",
+  "findingBestSpots": "En iyi noktalar bulunuyor...",
+  "personalizingJourney": "Gezin kişiselleştiriliyor...",
+  "enrichingDetails": "Mekan detayları zenginleştiriliyor...",
+  "fetchingPhotos": "Fotoğraflar ve puanlar yükleniyor...",
+  "finalizingItinerary": "Gezi planın son şeklini alıyor...",
+  "analyzingPreferences": "Tercihleriniz analiz ediliyor",
+  "selectingLocations": "Mükemmel mekanlar seçiliyor",
+  "creatingSequence": "En uygun sıralama oluşturuluyor",
+  "gettingRealtimeData": "Anlık veriler alınıyor",
+  "loadingPlaceInfo": "Mekan bilgileri yükleniyor",
+  "almostReady": "Neredeyse hazır!",
+
+  "@_PLACE_PREVIEW_SHEET": {},
+  "openNow": "AÇIK",
+  "aboutSection": "Hakkında",
+  "noDescriptionAvailable": "Açıklama bulunmuyor.",
+  "unableToLoadPlaceDetails": "Mekan detayları yüklenemedi",
+
+  "@_TERMS_OF_SERVICE_SHEET": {},
+  "termsOfServiceTitle": "Kullanım Koşulları",
+  "termsReadCarefully": "Lütfen dikkatlice okuyun",
+  "termsLoadFailed": "Kullanım Koşulları yüklenemedi. Lütfen daha sonra tekrar deneyin.",
+
+  "@_SNACKBAR_MESSAGES": {},
+  "snackbarPasswordRequirements": "Lütfen tüm şifre gereksinimlerini karşılayın",
+  "snackbarPasswordResetSuccess": "Şifre başarıyla sıfırlandı!",
+  "snackbarAtLeastTwoStops": "Navigasyonu başlatmak için en az 2 durak gereklidir",
+  "snackbarCouldNotOpenMaps": "Google Haritalar açılamadı",
+  "snackbarFailedGenerateLink": "Rota bağlantısı oluşturulamadı",
+  "snackbarRouteTakingLonger": "Rota oluşturma beklenenden uzun sürüyor...",
+  "snackbarErrorOccurred": "Bir hata oluştu",
+  "snackbarFailedLoadRouteDetails": "Rota detayları yüklenemedi"
+}

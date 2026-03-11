@@ -1,0 +1,102 @@
+# =============================================================================
+# Python (Backend)
+# =============================================================================
+
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+.env
+.env.local
+.coverage
+.pytest_cache/
+*.log
+app/build/
+backend/.venv/
+app/.dart_tool/
+
+# =============================================================================
+# Flutter (App)
+# =============================================================================
+
+.DS_Store
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android
+**/android/.gradle
+**/android/local.properties
+**/android/key.properties
+*.jks
+
+# iOS
+**/ios/Pods/
+**/ios/Flutter/ephemeral/
+**/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3
+**/ios/**/*.xcuserdata
+
+# macOS
+**/macos/Flutter/ephemeral/
+
+# =============================================================================
+# Firebase
+# =============================================================================
+
+firebase-credentials.json
+*-firebase-adminsdk-*.json
+.firebase/
+firebase.json
+.firebaserc
+*-debug.log*
+
+# =============================================================================
+# IDE
+# =============================================================================
+
+.idea/
+.vscode/
+*.iml
+*.code-workspace
+
+# =============================================================================
+# OS & Temporary
+# =============================================================================
+
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*~
+tmpclaude-*
+notes
+
+# =============================================================================
+# Keep
+# =============================================================================
+
+!.gitkeep
+!.env.example
+nul
+
+# Sensitive
+backend/.env
+backend/.env.local
+backend/.env.example
+app/.env
+app/google-services.json
+app/android/app/google-services.json
+app/android/local.properties
+app/lib/firebase_options.dart
+backend/firebase.json
+app/ios/Runner/AppDelegate.swift
