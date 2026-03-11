@@ -2,6 +2,16 @@
 
 AI-powered travel route planning app for Istanbul.
 
+## Screenshots
+
+<p float="left">
+  <img src="docs/screenshots/1-ilk-giris.jpg" width="17%" />
+  <img src="docs/screenshots/2-hosgeldin.jpg" width="17%" />
+  <img src="docs/screenshots/3-haritaverota.jpg" width="17%" />
+  <img src="docs/screenshots/4-rota-yuklenme.jpg" width="17%" />
+  <img src="docs/screenshots/5-rotalarım.png" width="23%" />
+</p>
+
 ## Project Structure
 
 This is a **monorepo** containing both mobile app and backend:
